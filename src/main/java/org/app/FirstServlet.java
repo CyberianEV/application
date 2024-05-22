@@ -25,6 +25,6 @@ public class FirstServlet extends HttpServlet {
 
     @Override
     public void init() throws ServletException {
-        logger.debug("Init");
+        logger.debug("First servlet Init");
     }
 }

@@ -76,10 +76,10 @@
                 <version>2.2</version>
                 <configuration>
                     <url>http://localhost:8080/manager/text</url>
-                    <server>TomcatSeLver</server>
+                    <server>TomcatServer</server>
                     <username>admin</username>
                     <password>password</password>
-                    <path>/client</path>
+                    <path>/store</path>
                     <update>true</update>
                 </configuration>
             </plugin>
